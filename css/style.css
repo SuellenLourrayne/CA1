@@ -26,3 +26,14 @@ a:hover{
     height: 30px;
     padding-right: 10px;
 }
+
+.pkey{
+    width: 10px;
+    height: 15px; 
+    padding-right: 5px;
+}
+
+.fkey{
+    width: 16px;
+    height: 16px; 
+}
