@@ -1,0 +1,28 @@
+table { 
+    border-collapse: collapse; 
+} 
+
+td, th { 
+    border: 1px solid #999; 
+    padding: 0.5rem; 
+    text-align: left; 
+}
+
+.tbTitle{
+    text-align: center;
+}  
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: darkred;
+}
+
+.back{
+    width: 30px;
+    height: 30px;
+    padding-right: 10px;
+}
